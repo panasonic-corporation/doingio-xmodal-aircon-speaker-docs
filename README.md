@@ -195,6 +195,14 @@
 
     <img src="images/stick_case.jpg" width="500px" />
 
+ケースにマスキングテープなどを貼ってデコレーションしてみるのもいいですね☆
+
+<img src="images/case_deco_1.jpg" width="250px" />
+
+<img src="images/case_deco_2.jpg" width="250px" />
+
+<img src="images/case_deco_3.jpg" width="250px" />
+
 
 ### 9 使用方法
 
